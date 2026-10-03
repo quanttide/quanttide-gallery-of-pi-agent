@@ -18,7 +18,7 @@ gallery 是案例的公开展示层：内容可能被公开访问，脱敏是入
 
 本仓库用于维护量潮 Pi 智能体的实践案例，包括：
 
-- 待补充
+- [pi-hermes-memory 案例](./pi-hermes-memory/index.md)：提示词原文三件——memory-pin（授权注入）、memory-policy（效力条款）、后台复习（抽取器）。
 
 ## 许可
 
